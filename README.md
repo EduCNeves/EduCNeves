@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! I am Eduardo Neves 👋
+
+- 🔭 I’m currently working with front-end
+- 🌱 I’m currently learning HTML
+- 💻 Studying Bachelor in Computer Science from UFPR
 
 <!--
-**EduCNeves/EduCNeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/EduCNeves">
+  <img height="180cm" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)"/>
+  <img height="180cm" src=""/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
