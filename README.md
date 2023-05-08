@@ -11,7 +11,7 @@
 <h3>🎇GitHub Stats</h3>
 
   <a href="https://github.com/EduCNeves">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=EduCNeves&show_icons=true&theme=midnight-purple"/>
+  <img height="180cm" src="https://EduCNeves.vercel.app/api?username=EduCNeves&show_icons=true&theme=midnight-purple"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduCNeves&layut=compact&layout=compact&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
