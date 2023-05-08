@@ -11,8 +11,8 @@
 <h3>🎇GitHub Stats</h3>
 
   <a href="https://github.com/EduCNeves">
-  <img height="180cm" src="https://EduCNeves.vercel.app/api?username=EduCNeves&show_icons=true&theme=midnight-purple"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduCNeves&layut=compact&layout=compact&theme=midnight-purple"/>
+  <img height="180cm" src="https://EduCNeves.vercel.app/api/top-langs/?layout=compact&theme=midnight-purple&username=EduCNeves&langs_count=10&hide=makefile&exclude_repo=vim-mods" alt="top languages"/>
+  <img height="180cm" src="https://EduCNeves.vercel.app/api?username=EduCNeves&count_private=true&show_icons=true&theme=midnight-purple&include_all_commits=true" alt="Eduardo Neves GitHub Stats"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
