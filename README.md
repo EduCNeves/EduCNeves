@@ -1,7 +1,7 @@
 # Hi there! I am Eduardo Neves 👋
 <p>
   <a href="https://www.linkedin.com/in/eduardo-camargo-neves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/eduu_neves/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/eduu_neves/" target="_blank"target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 - 🔭 I’m currently working with front-end
