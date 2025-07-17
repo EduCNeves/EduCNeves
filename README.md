@@ -36,4 +36,4 @@
 </div>
 
 #
-![Snake animation](https://github.com/EduCNeves/EduCNeves/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/EduCNeves/EduCNeves/output/github-contribution-grid-snake.svg)
